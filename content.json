@@ -1,1 +1,18 @@
-
+[
+  {
+    "id": "1",
+    "tag": "Новость",
+    "title": "Добро пожаловать в AAAcards!",
+    "description": "Все ваши карты лояльности теперь всегда под рукой.",
+    "imageUrl": "",
+    "actionUrl": "https://www.rustore.ru"
+  },
+  {
+    "id": "2",
+    "tag": "Реклама",
+    "title": "Партнёрская скидка",
+    "description": "Специальное предложение для пользователей нашего приложения.",
+    "imageUrl": "",
+    "actionUrl": "https://example.com"
+  }
+]
